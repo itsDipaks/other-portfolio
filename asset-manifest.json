@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1c906f1c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.9c8fb04c.css",
+    "main.js": "/static/js/main.73aa2067.js",
+    "static/media/heroimg.png": "/static/media/heroimg.ce4a3656dc8b03a35509.png",
+    "static/media/hii.gif": "/static/media/hii.7b9382cd01f007f7465a.gif",
+    "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
+    "static/media/icons8-redux-480.png": "/static/media/icons8-redux-480.c9be37e0fece29c624b0.png",
+    "static/media/icons8-chakra-ui.png": "/static/media/icons8-chakra-ui.e4c92a384394912925aa.png",
+    "static/media/express.png": "/static/media/express.480330497e3bb2c6965f.png",
+    "static/media/nodejs-.png": "/static/media/nodejs-.a4713ff2ca054bf23788.png",
+    "static/media/icons8-github-480.png": "/static/media/icons8-github-480.2d1f9c7160fc8933ea3e.png",
+    "static/media/icons8-css3-480.png": "/static/media/icons8-css3-480.5721a3928fe43de6baf8.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1c906f1c.js.map": "/static/js/main.1c906f1c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.9c8fb04c.css.map": "/static/css/main.9c8fb04c.css.map",
+    "main.73aa2067.js.map": "/static/js/main.73aa2067.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1c906f1c.js"
+    "static/css/main.9c8fb04c.css",
+    "static/js/main.73aa2067.js"
   ]
 }
