@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6f11fd9.css",
-    "main.js": "/static/js/main.ff92d66d.js",
+    "main.css": "/static/css/main.e3927c73.css",
+    "main.js": "/static/js/main.fb233681.js",
     "static/media/Hero-Avtar.png": "/static/media/Hero-Avtar.120710a7aced5806054d.png",
     "static/media/About-Avatar.png": "/static/media/About-Avatar.d15117c38a484e3ce091.png",
     "static/media/machome.png": "/static/media/machome.f3153a95835d8c47ee0e.png",
@@ -10,6 +10,7 @@
     "static/media/noredstrom.png": "/static/media/noredstrom.d2d985351853d024a88b.png",
     "static/media/Dipak Pawar.pdf": "/static/media/Dipak Pawar.fa065e126563754d4ddd.pdf",
     "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
+    "static/media/Sent.svg": "/static/media/Sent.d945575133e18e248bba56e4199ed067.svg",
     "static/media/icons8-redux-480.png": "/static/media/icons8-redux-480.c9be37e0fece29c624b0.png",
     "static/media/icons8-chakra-ui.png": "/static/media/icons8-chakra-ui.e4c92a384394912925aa.png",
     "static/media/express.png": "/static/media/express.480330497e3bb2c6965f.png",
@@ -17,11 +18,11 @@
     "static/media/icons8-github-480.png": "/static/media/icons8-github-480.2d1f9c7160fc8933ea3e.png",
     "static/media/icons8-css3-480.png": "/static/media/icons8-css3-480.5721a3928fe43de6baf8.png",
     "index.html": "/index.html",
-    "main.e6f11fd9.css.map": "/static/css/main.e6f11fd9.css.map",
-    "main.ff92d66d.js.map": "/static/js/main.ff92d66d.js.map"
+    "main.e3927c73.css.map": "/static/css/main.e3927c73.css.map",
+    "main.fb233681.js.map": "/static/js/main.fb233681.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6f11fd9.css",
-    "static/js/main.ff92d66d.js"
+    "static/css/main.e3927c73.css",
+    "static/js/main.fb233681.js"
   ]
 }
