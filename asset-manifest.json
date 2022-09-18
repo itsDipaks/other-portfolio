@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3927c73.css",
-    "main.js": "/static/js/main.fb233681.js",
-    "static/media/Hero-Avtar.png": "/static/media/Hero-Avtar.120710a7aced5806054d.png",
+    "main.css": "/static/css/main.4cf05fac.css",
+    "main.js": "/static/js/main.46e9988a.js",
     "static/media/About-Avatar.png": "/static/media/About-Avatar.d15117c38a484e3ce091.png",
-    "static/media/machome.png": "/static/media/machome.f3153a95835d8c47ee0e.png",
-    "static/media/cultfit.png": "/static/media/cultfit.8cb5ae3cc7b7f3bf4ed0.png",
+    "static/media/cultfit1.png": "/static/media/cultfit1.1a0fbe9d288c7a23a82d.png",
+    "static/media/1.Homepage.png": "/static/media/1.Homepage.390e7183bd14ec24660b.png",
     "static/media/hii png.gif": "/static/media/hii png.7097ce8acef9bdb96f06.gif",
-    "static/media/noredstrom.png": "/static/media/noredstrom.d2d985351853d024a88b.png",
+    "static/media/nortstrom.png": "/static/media/nortstrom.35302f8b51501a059aff.png",
     "static/media/Dipak Pawar.pdf": "/static/media/Dipak Pawar.fa065e126563754d4ddd.pdf",
+    "static/media/favicon.ico": "/static/media/favicon.d1798827b95cbf0f2842.ico",
+    "static/media/sitting.svg": "/static/media/sitting.d082159a83c79a8891af5e433d650275.svg",
     "static/media/react.png": "/static/media/react.e767d58738285206407e.png",
     "static/media/Sent.svg": "/static/media/Sent.d945575133e18e248bba56e4199ed067.svg",
     "static/media/icons8-redux-480.png": "/static/media/icons8-redux-480.c9be37e0fece29c624b0.png",
+    "static/media/visual-studio.png": "/static/media/visual-studio.ce637e60ea8d930e6547.png",
+    "static/media/github.svg": "/static/media/github.2cae1be336f1f15328ade671bed1aa73.svg",
     "static/media/icons8-chakra-ui.png": "/static/media/icons8-chakra-ui.e4c92a384394912925aa.png",
     "static/media/express.png": "/static/media/express.480330497e3bb2c6965f.png",
     "static/media/nodejs-.png": "/static/media/nodejs-.a4713ff2ca054bf23788.png",
     "static/media/icons8-github-480.png": "/static/media/icons8-github-480.2d1f9c7160fc8933ea3e.png",
     "static/media/icons8-css3-480.png": "/static/media/icons8-css3-480.5721a3928fe43de6baf8.png",
+    "static/media/netlify.svg": "/static/media/netlify.c7eb07c4d0ddb44d07ea89baccf07857.svg",
     "index.html": "/index.html",
-    "main.e3927c73.css.map": "/static/css/main.e3927c73.css.map",
-    "main.fb233681.js.map": "/static/js/main.fb233681.js.map"
+    "main.4cf05fac.css.map": "/static/css/main.4cf05fac.css.map",
+    "main.46e9988a.js.map": "/static/js/main.46e9988a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3927c73.css",
-    "static/js/main.fb233681.js"
+    "static/css/main.4cf05fac.css",
+    "static/js/main.46e9988a.js"
   ]
 }
