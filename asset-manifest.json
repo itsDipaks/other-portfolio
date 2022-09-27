@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1de8d76f.css",
-    "main.js": "/static/js/main.2084216d.js",
+    "main.js": "/static/js/main.d3c6ec12.js",
     "static/media/nordstrom.mp4": "/static/media/nordstrom.35557ea333e0a6288784.mp4",
     "static/media/cultfit.com.mp4": "/static/media/cultfit.com.69b58397824c853755b3.mp4",
     "static/media/Shop.com.mp4": "/static/media/Shop.com.27faf8466a7fcee13300.mp4",
@@ -9,7 +9,7 @@
     "static/media/cultfit1.png": "/static/media/cultfit1.63188d058a41416ea97c.png",
     "static/media/shop.com.png": "/static/media/shop.com.6e74a4f06d9f21fea7af.png",
     "static/media/nortstrom.png": "/static/media/nortstrom.25a7c6bec0d403c96b98.png",
-    "static/media/resume.pdf": "/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/DipakPawarResume.pdf": "/static/media/DipakPawarResume.c1fcc436d9f85d4f7cf4.pdf",
     "static/media/boy.png": "/static/media/boy.5ca4b670a32b71681d2c.png",
     "static/media/coding.png": "/static/media/coding.04db795dc720d4f83644.png",
     "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
@@ -34,10 +34,10 @@
     "static/media/Netlify-Logo.wine.svg": "/static/media/Netlify-Logo.wine.925d774e8e192ef0f3a6705a9aef4070.svg",
     "index.html": "/index.html",
     "main.1de8d76f.css.map": "/static/css/main.1de8d76f.css.map",
-    "main.2084216d.js.map": "/static/js/main.2084216d.js.map"
+    "main.d3c6ec12.js.map": "/static/js/main.d3c6ec12.js.map"
   },
   "entrypoints": [
     "static/css/main.1de8d76f.css",
-    "static/js/main.2084216d.js"
+    "static/js/main.d3c6ec12.js"
   ]
 }
