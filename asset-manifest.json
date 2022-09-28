@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1de8d76f.css",
-    "main.js": "/static/js/main.d3c6ec12.js",
+    "main.css": "/static/css/main.de25ce3e.css",
+    "main.js": "/static/js/main.9e48a2ef.js",
     "static/media/nordstrom.mp4": "/static/media/nordstrom.35557ea333e0a6288784.mp4",
     "static/media/cultfit.com.mp4": "/static/media/cultfit.com.69b58397824c853755b3.mp4",
     "static/media/Shop.com.mp4": "/static/media/Shop.com.27faf8466a7fcee13300.mp4",
@@ -33,11 +33,11 @@
     "static/media/icons8-css3-480.png": "/static/media/icons8-css3-480.5721a3928fe43de6baf8.png",
     "static/media/Netlify-Logo.wine.svg": "/static/media/Netlify-Logo.wine.925d774e8e192ef0f3a6705a9aef4070.svg",
     "index.html": "/index.html",
-    "main.1de8d76f.css.map": "/static/css/main.1de8d76f.css.map",
-    "main.d3c6ec12.js.map": "/static/js/main.d3c6ec12.js.map"
+    "main.de25ce3e.css.map": "/static/css/main.de25ce3e.css.map",
+    "main.9e48a2ef.js.map": "/static/js/main.9e48a2ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.1de8d76f.css",
-    "static/js/main.d3c6ec12.js"
+    "static/css/main.de25ce3e.css",
+    "static/js/main.9e48a2ef.js"
   ]
 }
